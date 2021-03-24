@@ -1,1 +1,1 @@
-# gfu-quickie-quarkus
+# GFU Education Quickie "Quarkus"
